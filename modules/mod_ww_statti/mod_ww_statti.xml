@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module"	client="site"	method="upgrade">
+	<name>mod_ww_statti</name>
+	<author>Gala</author>
+	<creationDate>2013</creationDate>
+	<description>Modul 1</description>
+    <files>
+		<filename module="mod_ww_statti">mod_ww_statti.php</filename>
+		<folder>tmpl</folder>
+		<filename>helper.php</filename>
+		<filename>index.html</filename>
+		<filename>mod_ww_statti.xml</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+	</files>
+
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+                <field
+                        name="count"
+                        type="text"
+                        default="3"
+                        label="The number of articles"
+                        description="The number of articles to display" />
+
+                <field
+                        name="ordering"
+                        type="list"
+                        default="published"
+                        label="Order"
+                        description="Ordering">
+                    <option
+                            value="c_dsc">Recently added</option>
+                    <option
+                            value="p_dsc">Recently published</option>
+                    </field>
+
+			</fieldset>
+		</fields>
+	</config>
+</extension>

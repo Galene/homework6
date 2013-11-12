@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension
+	type="module"
+	version="2.5"
+	client="site"
+	method="upgrade">
+	<name>jdialog(for Joomla2.5)</name>
+	<author>bamboowaves</author>
+	<creationDate>Feb 2012</creationDate>
+	<copyright>(C) 2012 Bamboowave,Inc. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>bamboowaves@gmail.com</authorEmail>
+	<authorUrl>joomla.bamboo-waves.com</authorUrl>
+	<version>3.2</version>
+	<description>Popup dialog when someone visits your site.This module use YUI Library.</description>
+	<files>
+		<filename module="mod_jdialog">mod_jdialog.php</filename>
+		<filename>index.html</filename>
+		<filename>tmpl/default.php</filename>
+		<filename>tmpl/index.html</filename>
+		<filename>scripts/jdialog.js</filename>
+		<filename>scripts/index.html</filename>
+		<filename>scripts/yui/index.html</filename>
+		<filename>scripts/yui/animation.js</filename>
+		<filename>scripts/yui/dom.js</filename>
+		<filename>scripts/yui/event.js</filename>
+		<filename>scripts/yui/yahoo.js</filename>
+		<filename>img/index.html</filename>
+		<filename>img/titlebg.gif</filename>
+		<filename>img/btnbg.jpg</filename>
+		<filename>img/btnpopup.jpg</filename>
+		<filename>img/btnreset.jpg</filename>
+		<filename>img/logobw.jpg</filename>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field size="20" name="dialog_width" type="text" default="320" label="width of dialog" description="Define width of dialog" />
+				<field size="20" name="dialog_height" type="text" default="210" label="height of dialog" description="Define height of dialog" />
+				<field size="20" name="wall_bgcolor" type="text" default="Black" label="wall background color" description="Define background color of wall" />
+				<field size="20" name="wall_opacity" type="text" default="1.0" label="wall opacity" description="wall opacity 0.0 - 1.0" />
+				<field size="20" name="msg_bgcolor" type="text" default="#7C7CAF" label="msg color" description="Define color of msg" />
+				<field size="20" name="msg_opacity" type="text" default="1.0" label="msg opacity" description="msg opacity 0.0 - 1.0" />
+				<field size="20" name="yesno_color" type="text" default="Black" label="yes no color" description="yes no caption color" />
+				<field name="okact" type="list" default="" label="ok action" description="exec action when selected yes">
+					<option value="">none</option>
+					<option value="open">open new window</option>
+					<option value="move">move location</option>
+				</field>
+
+				<field size="80" name="okurl" type="text" default="http://www.yahoo.com" label="ok url" description="url when selected yes" />
+
+				<field size="80" name="ngurl" type="text" default="http://www.yahoo.com" label="ng url" description="redirect url when selected no" />
+				<field size="80" name="title" type="text" default="Do you enter?" label="msg title" description="Define title" />
+				<field size="80" name="msg1" type="textarea" rows="3" cols="40" default="This site is writen about my favorites.&lt;br /&gt;Do you enter?" label="msg1" description="first message" />
+				<field size="20" name="yes" type="text" default="Enter" label="yes button caption" description="yes button caption" />
+				<field size="20" name="no" type="text" default="Leave" label="no button caption" description="no button caption" />
+
+				<field name="triger" type="list" default="cookie" label="triger" description="triger of popup">
+					<option value="cookie">cookie</option>
+					<option value="noauth">noauth</option>
+					<option value="none">none</option>
+				</field>
+
+				<field size="3" name="informations" type="textarea" default="" label="informations" description="Define informations"></field>
+				<field size="20" name="information_display_rows" type="text" default="5" label="display rows of information" description="Define rows of information displaied" />
+
+				<field name="agreecheck" type="list" default="yes" label="agreecheck" description="display agree check">
+					<option value="yes">yes</option>
+					<option value="no">no</option>
+				</field>
+				<field size="20" name="checktext" type="text" default="I agree!" label="checktext" description="Define agreement check text"></field>
+				<field size="20" name="disagreewarn" type="text" default="Please click agree." label="disagreewarn" description="Define disagree warning message text"></field>
+			</fieldset>
+			<fieldset
+				name="advanced">
+				<field size="20" name="cookiename" type="text" default="jdialogchk" label="cookiename" description="Define cookiename" />
+				<field size="20" name="limitdays" type="text" default="365" label="limitdays" description="Define cookie limit" />
+				<field name="moduledisp" type="list" default="yes" label="moduledisp" description="display module(if you choice no,please link back to my site anywhere.)">
+					<option value="yes">yes</option>
+					<option value="no">no</option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</extension>
