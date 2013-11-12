@@ -2,40 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be53ceb6-81aa-4e3f-a907-753def918a49" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/edu1.sql.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_articles_popular1/helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_articles_popular1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_articles_popular1/mod_articles_popular1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_articles_popular1/mod_articles_popular1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_articles_popular1/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_articles_popular1/tmpl/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww/helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww/mod_ww.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww/mod_ww.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww/tmpl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/img/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/img/btnbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/img/btnpopup.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/img/btnreset.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/img/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/img/logobw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/img/titlebg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/mod_jdialog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/mod_jdialog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/jdialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/yui/animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/yui/dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/yui/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/yui/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/yui/yahoo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/tmpl/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/tmpl/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup/mod_ww_popup.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup/mod_ww_popup.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup/popup.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup/tmpl/default.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup/tmpl/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/jdialog.js" afterPath="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/jdialog.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_jdialog3.2/mod_jdialog.php" afterPath="$PROJECT_DIR$/modules/mod_jdialog3.2/mod_jdialog.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup_01/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup_01/mod_ww_popup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup_01/mod_ww_popup.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup_01/popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup_01/tmpl/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup_01/tmpl/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php" afterPath="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="edu.loc.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384244113288" ignored="false" />
+    <file path="/Dummy.txt" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384274455377" ignored="false" />
     <file path="/mod_ww_statti.xml" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384173219921" ignored="false" />
     <file path="/mod_ww_statti.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384166270092" ignored="false" />
-    <file path="/default.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384262160102" ignored="false" />
+    <file path="/default.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384275879379" ignored="false" />
     <file path="/mod_ww_popup.xml" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384252116471" ignored="false" />
-    <file path="/popup.js" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384252509515" ignored="false" />
+    <file path="/popup.js" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384277261284" ignored="false" />
     <file path="/mod_ww_popup2.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384259171248" ignored="false" />
     <file path="/mod_ww_popup2.xml" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384258920792" ignored="false" />
-    <file path="/helper.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384259968889" ignored="false" />
+    <file path="/helper.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384276346150" ignored="false" />
+    <file path="/mod_je_popuplogin.xml" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384274819520" ignored="false" />
+    <file path="/index.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384276062362" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +89,16 @@
       <file leaf-file-name="popup.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="32" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0">
+            <state line="46" column="6" selection-start="1361" selection-end="1361" vertical-scroll-proportion="-16.32">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_ww_popup2.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.34139404">
               <folding />
             </state>
           </provider>
@@ -85,50 +107,8 @@
       <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="-5.0">
+            <state line="14" column="33" selection-start="364" selection-end="367" vertical-scroll-proportion="-8.75">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mod_jdialog.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/mod_jdialog3.2/mod_jdialog.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="2" selection-start="750" selection-end="750" vertical-scroll-proportion="-7.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/mod_jdialog3.2/tmpl/default.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="164" column="0" selection-start="3541" selection-end="3541" vertical-scroll-proportion="-0.5068493">
-              <folding>
-                <element signature="e#666#854#0" expanded="false" />
-                <element signature="e#874#1032#0" expanded="false" />
-                <element signature="e#1054#1100#0" expanded="false" />
-                <element signature="e#1118#1195#0" expanded="false" />
-                <element signature="e#1214#1256#0" expanded="false" />
-                <element signature="e#1276#1379#0" expanded="false" />
-                <element signature="e#1401#1501#0" expanded="false" />
-                <element signature="e#1521#1642#0" expanded="false" />
-                <element signature="e#1664#1764#0" expanded="false" />
-                <element signature="e#1820#1853#0" expanded="false" />
-                <element signature="e#1928#1990#0" expanded="false" />
-                <element signature="e#2025#2125#0" expanded="false" />
-                <element signature="e#2168#2193#0" expanded="false" />
-                <element signature="e#2223#2299#0" expanded="false" />
-                <element signature="e#2317#2408#0" expanded="false" />
-                <element signature="e#2430#2483#0" expanded="false" />
-                <marker date="1339080764000" expanded="true" signature="3465:3500" placeholder="..." />
-                <marker date="1339080764000" expanded="true" signature="3515:3547" placeholder="..." />
-                <marker date="1339080764000" expanded="true" signature="3572:3582" placeholder="..." />
-                <marker date="1339080764000" expanded="true" signature="3600:3610" placeholder="..." />
-                <marker date="1339080764000" expanded="true" signature="3627:3763" placeholder="..." />
-                <marker date="1339080764000" expanded="true" signature="3778:3810" placeholder="..." />
-                <marker date="1339080764000" expanded="true" signature="3796:3803" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -151,11 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/modules/mod_ww_statti/mod_ww_statti.php" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_statti/mod_ww_statti.xml" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_statti/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_statti/helper.php" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_popup/mod_ww_popup.php" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup/tmpl/default.php" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup/popup.js" />
         <option value="$PROJECT_DIR$/../different/popup/YourPopUp/popup.js" />
@@ -164,9 +139,14 @@
         <option value="$PROJECT_DIR$/modules/mod_jdialog3.2/mod_jdialog.php" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup2/popup.js" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.xml" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/helper.php" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup3/mod_je_popuplogin.xml" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup3/helper.php" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup3/mod_ww_popup3.php" />
+        <option value="$PROJECT_DIR$/templates/beez5/index.php" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/helper.php" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.js" />
       </list>
     </option>
   </component>
@@ -203,7 +183,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -250,46 +229,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mod_ww_statti" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mod_ww_statti" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmpl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="mod_ww_popup2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -309,46 +248,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mod_ww_popup2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmpl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mod_jdialog3.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mod_jdialog3.2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -358,6 +257,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,14 +295,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="25" width="1444" height="877" extended-state="6" />
-    <editor active="false" />
+    <frame x="-2" y="25" width="1444" height="877" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16068867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16499282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -480,23 +380,82 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/jdialog.js">
+    <entry file="file://$PROJECT_DIR$/modules/mod_djimageslider/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.067567565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_djimageslider/mod_djimageslider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_itf_call_me_back/mod_itf_call_me_back.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup_01/popup.js">
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/mod_ww_popup3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="25" selection-start="31" selection-end="31" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../different/popup/mod_pwebbox-1.0_j2.5/mod_pwebbox.php">
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/mod_ww_popup3.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="38" selection-start="1827" selection-end="1827" vertical-scroll-proportion="-40.625">
+        <state line="23" column="30" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="17" selection-start="904" selection-end="904" vertical-scroll-proportion="-16.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/beez5/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="69" selection-start="6150" selection-end="6150" vertical-scroll-proportion="0.3322933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/mod_ww_statti.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="294" selection-end="317" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/mod_ww_statti.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="178" selection-end="178" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="5" selection-start="247" selection-end="247" vertical-scroll-proportion="0.29680365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="-5.625">
           <folding />
         </state>
       </provider>
@@ -510,111 +469,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/mod_ww_statti.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="294" selection-end="317" vertical-scroll-proportion="0.14651494">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.8615611">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/mod_ww_statti.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="178" selection-end="178" vertical-scroll-proportion="0.15463917">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="247" selection-end="247" vertical-scroll-proportion="0.28718704">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_djimageslider/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.067567565">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="358" selection-end="358" vertical-scroll-proportion="0.21337126">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="-5.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="-5.625">
+        <state line="14" column="33" selection-start="364" selection-end="367" vertical-scroll-proportion="-8.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="32" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0">
+        <state line="46" column="6" selection-start="1361" selection-end="1361" vertical-scroll-proportion="-16.32">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_jdialog3.2/mod_jdialog.php">
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="2" selection-start="750" selection-end="750" vertical-scroll-proportion="-7.5">
+        <state line="16" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.34139404">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_jdialog3.2/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="0" selection-start="3541" selection-end="3541" vertical-scroll-proportion="-0.5068493">
-          <folding>
-            <element signature="e#666#854#0" expanded="false" />
-            <element signature="e#874#1032#0" expanded="false" />
-            <element signature="e#1054#1100#0" expanded="false" />
-            <element signature="e#1118#1195#0" expanded="false" />
-            <element signature="e#1214#1256#0" expanded="false" />
-            <element signature="e#1276#1379#0" expanded="false" />
-            <element signature="e#1401#1501#0" expanded="false" />
-            <element signature="e#1521#1642#0" expanded="false" />
-            <element signature="e#1664#1764#0" expanded="false" />
-            <element signature="e#1820#1853#0" expanded="false" />
-            <element signature="e#1928#1990#0" expanded="false" />
-            <element signature="e#2025#2125#0" expanded="false" />
-            <element signature="e#2168#2193#0" expanded="false" />
-            <element signature="e#2223#2299#0" expanded="false" />
-            <element signature="e#2317#2408#0" expanded="false" />
-            <element signature="e#2430#2483#0" expanded="false" />
-            <marker date="1339080764000" expanded="true" signature="3465:3500" placeholder="..." />
-            <marker date="1339080764000" expanded="true" signature="3515:3547" placeholder="..." />
-            <marker date="1339080764000" expanded="true" signature="3572:3582" placeholder="..." />
-            <marker date="1339080764000" expanded="true" signature="3600:3610" placeholder="..." />
-            <marker date="1339080764000" expanded="true" signature="3627:3763" placeholder="..." />
-            <marker date="1339080764000" expanded="true" signature="3778:3810" placeholder="..." />
-            <marker date="1339080764000" expanded="true" signature="3796:3803" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>

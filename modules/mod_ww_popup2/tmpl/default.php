@@ -1,10 +1,12 @@
+text
 <?php
 defined('_JEXEC') or die;
 
 $document=JFactory::getDocument();
-$doc->addStyleSheet(JURI::root(true).'/modules/mod_ww_popup2/tmpl/popup.css');
-$doc->addScript(JURI::root(),'/modules/mod_ww_popup2/tmpl/popup.js');
-$doc->addScript(JURI::root(),'/modules/mod_ww_popup2/tmpl/jquery.js');
+$document->addScript('/modules/mod_ww_popup2/tmpl/jquery.js');
+$document->addStyleSheet(JURI::root(true).'/modules/mod_ww_popup2/tmpl/popup.css');
+$document->addScript('/modules/mod_ww_popup2/tmpl/popup.js');
+
 
 
 ?>
