@@ -40,7 +40,7 @@ body
 #header
 {
     display:block ;
-    position:relative;
+    /*position:relative;*/
     padding:0px;
     overflow:hidden;
 }

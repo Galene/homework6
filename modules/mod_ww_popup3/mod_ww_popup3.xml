@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module"	client="site"	method="upgrade">
+	<name>mod_ww_popup3</name>
+	<author>Gala</author>
+	<creationDate>2013</creationDate>
+	<description>Modul Popup 3</description>
+
+     <files>
+        <filename module="mod_ww_popup3">mod_ww_popup3.php</filename>
+        <folder>tmpl</folder>
+        <filename>mod_ww_popup3.xml</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+
+    </files>
+</extension>

@@ -34,21 +34,26 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup_01/tmpl/default.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/modules/mod_ww_popup_01/tmpl/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php" afterPath="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_ww_popup2/helper.php" afterPath="$PROJECT_DIR$/modules/mod_ww_popup2/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php" afterPath="$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.css" afterPath="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.js" afterPath="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/css/position.css" afterPath="$PROJECT_DIR$/templates/beez5/css/position.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="edu.loc.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384274455377" ignored="false" />
+    <file path="/Dummy.txt" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384339178023" ignored="false" />
     <file path="/mod_ww_statti.xml" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384173219921" ignored="false" />
     <file path="/mod_ww_statti.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384166270092" ignored="false" />
-    <file path="/default.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384275879379" ignored="false" />
+    <file path="/default.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384344322079" ignored="false" />
     <file path="/mod_ww_popup.xml" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384252116471" ignored="false" />
-    <file path="/popup.js" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384277261284" ignored="false" />
+    <file path="/popup.js" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384343006320" ignored="false" />
     <file path="/mod_ww_popup2.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384259171248" ignored="false" />
     <file path="/mod_ww_popup2.xml" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384258920792" ignored="false" />
-    <file path="/helper.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384276346150" ignored="false" />
+    <file path="/helper.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384344558297" ignored="false" />
     <file path="/mod_je_popuplogin.xml" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384274819520" ignored="false" />
-    <file path="/index.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384276062362" ignored="false" />
+    <file path="/index.php" changelist="be53ceb6-81aa-4e3f-a907-753def918a49" time="1384341649025" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,37 +73,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="mod_ww_popup2.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="17" selection-start="96" selection-end="96" vertical-scroll-proportion="0.08836524">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="helper.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/helper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="-4.375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mod_ww_popup2.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="-5.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="popup.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="6" selection-start="1361" selection-end="1361" vertical-scroll-proportion="-16.32">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mod_ww_popup2.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.34139404">
+            <state line="4" column="12" selection-start="46" selection-end="46" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -107,7 +94,16 @@
       <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="33" selection-start="364" selection-end="367" vertical-scroll-proportion="-8.75">
+            <state line="16" column="6" selection-start="502" selection-end="502" vertical-scroll-proportion="-10.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popup.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="19" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -131,22 +127,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/modules/mod_ww_popup/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_popup/popup.js" />
-        <option value="$PROJECT_DIR$/../different/popup/YourPopUp/popup.js" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup/mod_ww_popup.xml" />
         <option value="$PROJECT_DIR$/modules/mod_jdialog3.2/scripts/jdialog.js" />
         <option value="$PROJECT_DIR$/modules/mod_jdialog3.2/mod_jdialog.php" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup2/popup.js" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.xml" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup3/mod_je_popuplogin.xml" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_popup3/helper.php" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup3/mod_ww_popup3.php" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup3/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/templates/beez5/css/position.css" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.css" />
         <option value="$PROJECT_DIR$/templates/beez5/index.php" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/helper.php" />
-        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php" />
         <option value="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.js" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup3/helper.php" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/modules/mod_ww_popup2/helper.php" />
       </list>
     </option>
   </component>
@@ -211,7 +207,101 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beez5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beez5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_ww_popup3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_ww_popup3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmpl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,14 +385,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="25" width="1444" height="877" extended-state="7" />
+    <frame x="-2" y="25" width="1444" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16499282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16714491" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -380,17 +471,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/mod_djimageslider/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.067567565" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_djimageslider/mod_djimageslider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_itf_call_me_back/mod_itf_call_me_back.php">
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/mod_ww_popup3.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -399,93 +480,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/mod_ww_popup3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="25" selection-start="31" selection-end="31" vertical-scroll-proportion="-0.625">
+        <state line="4" column="45" selection-start="143" selection-end="150" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/mod_ww_popup3.xml">
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/tmpl/popup.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="30" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/helper.php">
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/tmpl/popup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="17" selection-start="904" selection-end="904" vertical-scroll-proportion="-16.875">
+        <state line="2" column="16" selection-start="111" selection-end="140" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_mailto/views/mailto/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="0.07153729">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/beez5/css/beez5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.39647576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/beez5/css/position.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="4" selection-start="891" selection-end="909" vertical-scroll-proportion="0.46255508">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="6" selection-start="79" selection-end="79" vertical-scroll-proportion="0.094936706">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/beez5/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="69" selection-start="6150" selection-end="6150" vertical-scroll-proportion="0.3322933">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/mod_ww_statti.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="294" selection-end="317" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/mod_ww_statti.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="178" selection-end="178" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_statti/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="247" selection-end="247" vertical-scroll-proportion="0.29680365">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="33" selection-start="364" selection-end="367" vertical-scroll-proportion="-8.75">
+        <state line="94" column="9" selection-start="4866" selection-end="4866" vertical-scroll-proportion="-16.25">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="6" selection-start="1361" selection-end="1361" vertical-scroll-proportion="-16.32">
+        <state line="9" column="19" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.xml">
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup3/helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.34139404">
+        <state line="7" column="44" selection-start="260" selection-end="260" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="15" selection-start="459" selection-end="459" vertical-scroll-proportion="0.49075392">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="6" selection-start="502" selection-end="502" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="12" selection-start="46" selection-end="46" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/joomla/application/module/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="247" column="27" selection-start="6002" selection-end="6002" vertical-scroll-proportion="0.34462446">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_ww_popup2/mod_ww_popup2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="96" selection-end="96" vertical-scroll-proportion="0.08836524">
           <folding />
         </state>
       </provider>
