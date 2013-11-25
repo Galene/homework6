@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+
+              <field name="id" type="text" default="0" label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_ID"
+            readonly="true" class="readonly"
+            description="JGLOBAL_FIELD_ID_DESC" /> 
+
+       <field name="name" type="text"
+                
+            label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_NAME"
+            description="COM_STUDENT_FORM_DESC_ACADEMICACHIEVEMENT_NAME" 
+                 default="Name" 
+                
+                 required="true" 
+            class="name"
+            filter="string"
+            maxlength="10" /> 
+
+       <field name="general_information" type="editor"
+                
+            label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_GENERAL_INFORMATION"
+            description="COM_STUDENT_FORM_DESC_ACADEMICACHIEVEMENT_GENERAL_INFORMATION" 
+                
+                
+                
+            cols="8"
+            rows="5"
+            filter="safehtml" /> 
+
+       <field name="sex" type="radio"
+                
+            label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_SEX"
+            description="COM_STUDENT_FORM_DESC_ACADEMICACHIEVEMENT_SEX" 
+                 default="Male" 
+                
+                
+            filter="raw">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+        </field> 
+
+       <field name="date_of_birth" type="calendar"
+                
+            label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_DATE_OF_BIRTH"
+            description="COM_STUDENT_FORM_DESC_ACADEMICACHIEVEMENT_DATE_OF_BIRTH" 
+                
+                
+                
+            filter="raw" /> 
+
+       <field name="group" type="text"
+                
+            label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_GROUP"
+            description="COM_STUDENT_FORM_DESC_ACADEMICACHIEVEMENT_GROUP" 
+                
+                
+                 required="true" 
+            filter="string"
+            maxlength="15" /> 
+
+       <field name="student_credit_book" type="text"
+                
+            label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_STUDENT_CREDIT_BOOK"
+            description="COM_STUDENT_FORM_DESC_ACADEMICACHIEVEMENT_STUDENT_CREDIT_BOOK" 
+                
+                
+                 required="true" 
+            filter="int"
+            maxlength="10" /> 
+
+       <field name="the_average_score" type="text"
+                
+            label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_THE_AVERAGE_SCORE"
+            description="COM_STUDENT_FORM_DESC_ACADEMICACHIEVEMENT_THE_AVERAGE_SCORE" 
+                
+                
+                 required="true" 
+            filter="float"
+            maxlength="5" /> 
+
+       <field name="photo" type="media"
+                
+            label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_PHOTO"
+            description="COM_STUDENT_FORM_DESC_ACADEMICACHIEVEMENT_PHOTO" 
+                
+                
+                
+            filter="raw"
+            directory="images/photo" /> 
+
+       <field name="created_by" type="createdby" default="" 
+            label="COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_CREATED_BY"
+            description="COM_STUDENT_FORM_DESC_ACADEMICACHIEVEMENT_CREATED_BY"  /> 
+
+         <field
+        name="state"
+        type="list"
+        label="JSTATUS"
+        description="JFIELD_PUBLISHED_DESC"
+        class="inputbox"
+        size="1"
+        default="1">
+        <option value="1">JPUBLISHED</option>
+        <option value="0">JUNPUBLISHED</option>
+    </field> 
+
+                        <field name="checked_out" type="hidden" filter="unset" />
+        <field name="checked_out_time" type="hidden" filter="unset" />
+
+	</fieldset>
+
+</form>

@@ -18,9 +18,20 @@
 		<fields name="params">
 			<fieldset name="basic">
                 <field
+                        name="catid"
+                        type="category"
+                        extension="com_content"
+                        multiple="true"
+                        size="10"
+                        default=""
+                        label="JCATEGORY"
+                        description="category" >
+                    <option value="">Category</option>
+                </field>
+                <field
                         name="count"
                         type="text"
-                        default="3"
+                        default="5"
                         label="The number of articles"
                         description="The number of articles to display" />
 

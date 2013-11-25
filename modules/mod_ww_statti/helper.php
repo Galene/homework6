@@ -13,6 +13,8 @@ abstract class modStattiHelper
         // Get an instance of the generic articles model
         $model = JModelLegacy::getInstance('Articles', 'ContentModel', array('ignore_request' => true));
 
+        $model->setState('filter.category_id', $params->get('catid', array()));
+
         // Set application parameters in model
         $app = JFactory::getApplication();
         $appParams = $app->getParams();
@@ -20,7 +22,7 @@ abstract class modStattiHelper
 
         // number of articles
         $model->setState('list.start', 0);
-        $model->setState('list.limit', (int) $params->get('count', 3));
+        $model->setState('list.limit', (int) $params->get('count', 5));
         $model->setState('filter.published', 1);
 
         //order
