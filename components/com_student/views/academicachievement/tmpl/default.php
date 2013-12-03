@@ -34,10 +34,10 @@ if (!$canEdit && JFactory::getUser()->authorise('core.edit.own', 'com_student'))
                 <img src="<?php echo $this->item->photo; ?>"></li>
 			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_GENERAL_INFORMATION'); ?> information:
 			    <p><?php echo $this->item->general_information; ?></p></li>
-			<!--<li><?php echo JText::_('COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_SEX'); ?>:
-			<?php echo $this->item->sex; ?></li>-->
 			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_DATE_OF_BIRTH'); ?>:
 			    <p><?php echo $this->item->date_of_birth; ?></p></li>
+            <li><?php echo JText::_('COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_SEX'); ?>:
+                <p><?php echo $this->item->sex; ?></p></li>
 			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_GROUP'); ?>:
 			    <p><?php echo $this->item->group; ?></p></li>
 			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_ACADEMICACHIEVEMENT_STUDENT_CREDIT_BOOK'); ?>:
